@@ -8,9 +8,4 @@ int sum_array(int arr[]) {
     return sum;
 }
 
-int main() {
-    int arr[5] = {1, 2, 3, 4, 5};
-    int result = sum_array(arr);
-    printf("Sum: %d\n", result);
-    return 0;
-}
+ 

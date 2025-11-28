@@ -12,11 +12,3 @@ void two_sum(int arr[], int size, int target) {
     printf("No solution found\n");
 }
 
-int main() {
-    int arr[] = {2, 7, 1, 15, 10};
-    int size = 5;
-    int target = 22;
-    
-    two_sum(arr, size, target);
-    return 0;
-}
